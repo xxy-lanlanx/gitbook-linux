@@ -1,5 +1,7 @@
 # Table of contents
 
+* [README](README.md)
+
 ## Linux操作系统基本原理
 
 * [01-Linux内核架构和工作原理](linux-cao-zuo-xi-tong-ji-ben-yuan-li/01linux-nei-he-jia-gou-he-gong-zuo-yuan-li.md)
@@ -15,8 +17,6 @@
 * [11-Linux内核时间管理与定时器](linux-cao-zuo-xi-tong-ji-ben-yuan-li/11linux-nei-he-shi-jian-guan-li-yu-ding-shi-qi.md)
 * [12-Linux操作系统理解CPU上下文切换](linux-cao-zuo-xi-tong-ji-ben-yuan-li/12linux-cao-zuo-xi-tong-li-jie-cpu-shang-xia-wen-qie-huan.md)
 * [13-Linux内核调试与性能分析](linux-cao-zuo-xi-tong-ji-ben-yuan-li/13linux-nei-he-diao-shi-yu-xing-neng-fen-xi.md)
-
-
 
 ## Linux进程管理
 
@@ -55,6 +55,3 @@
 * [02-Linux操作系统原理-文件系统(2)](wen-jian-xi-tong/02linux-cao-zuo-xi-tong-yuan-li-wen-jian-xi-tong-2.md)
 * [03-Linux文件系统详解](wen-jian-xi-tong/03linux-wen-jian-xi-tong-xiang-jie.md)
 * [04-磁盘IO](wen-jian-xi-tong/04-ci-pan-io.md)
-
-
-
