@@ -1,4 +1,4 @@
-# 07-Linux Namespace 与 Cgroup
+# 06-Linux Namespace 与 Cgroup
 
 > Namespace 和 Cgroup 是 Linux 容器（Docker/LXC/Kubernetes）的两大基石。Namespace 提供隔离，Cgroup 提供资源限制。理解它们，就理解了现代云原生技术的底层。
 
