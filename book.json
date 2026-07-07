@@ -1,0 +1,41 @@
+{
+  "title": "Linux内核与操作系统原理深入解析",
+  "description": "系统梳理Linux内核架构、进程管理、内存管理、网络协议栈、文件系统与设备驱动等核心知识点",
+  "author": "匿名",
+  "language": "zh-hans",
+  "plugins": [
+    "chapter-fold",
+    "expandable-chapters",
+    "splitter",
+    "back-to-top-button",
+    "code",
+    "tbfed-pagefooter",
+    "pageview-count",
+    "lunr",
+    "search",
+    "sharing",
+    "fontsettings",
+    "highlight",
+    "livereload"
+  ],
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy; 2024",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "sharing": {
+      "weibo": true,
+      "twitter": true,
+      "facebook": true,
+      "google": false,
+      "instapaper": false,
+      "vk": false,
+      "all": [
+        "weibo",
+        "twitter",
+        "facebook"
+      ]
+    }
+  }
+}
