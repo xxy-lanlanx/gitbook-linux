@@ -161,8 +161,7 @@ int main(int argc, char **argv)
 总内存1G\
 1、swapoff -a 关掉swap交换\
 2、echo 1 > /proc/sys/vm/overcommit\_memory\
-3、内核不去评估系统还有多少空闲内存\
-
+3、内核不去评估系统还有多少空闲内存<br>
 
 Linux进行OOM打分，主要是看耗费内存情况，此外还会参考用户权限，比如root权限，打分会减少30分。
 
@@ -174,8 +173,7 @@ Linux进行OOM打分，主要是看耗费内存情况，此外还会参考用户
 
 1、slab的作用，针对在内核空间小内存分配，和常用数据结构的申请。\
 2、同样的二次分配器，在用户空间是C库。malloc和free的时候，内存不一定从buddy分配和还给buddy。\
-3、kmalloc，vmalloc 和malloc的区别\
-
+3、kmalloc，vmalloc 和malloc的区别<br>
 
 * kmalloc：申请内存，一般在低端内存区。申请到时，内存已经映射过了，不需要再去改进程的页表。所以，申请到的物理页是连续的。
 * vmalloc：申请内存，申请到就拿到内存，并且已经修改了进程页表的虚拟地址到物理地址的映射。vmalloc()申请的内存并不保证物理地址的连续。

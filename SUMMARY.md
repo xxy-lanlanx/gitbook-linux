@@ -25,6 +25,7 @@
 * [04-Linux内核Socket通信原理](linux-jin-cheng-guan-li/04linux-nei-he-socket-tong-xin-yuan-li.md)
 * [05-Linux内核进程的管理与调度](linux-jin-cheng-guan-li/05linux-nei-he-jin-cheng-de-guan-li-yu-diao-du.md)
 * [06-Linux内核进程管理并发同步与原子操作](linux-jin-cheng-guan-li/06linux-nei-he-jin-cheng-guan-li-bing-fa-tong-bu-yu-yuan-zi-cao-zuo.md)
+* [07-Linux Namespace与Cgroup](linux-jin-cheng-guan-li/07linux-namespace-yu-cgroup.md)
 
 ## 内存管理
 
@@ -46,6 +47,7 @@
 
 * [01-Linux总线、设备、驱动模型的探究](she-bei-qu-dong/01linux-zong-xian-she-bei-qu-dong-mo-xing-de-tan-jiu.md)
 * [02-Linux操作系统学习之字符设备](she-bei-qu-dong/02linux-cao-zuo-xi-tong-xue-xi-zhi-zi-fu-she-bei.md)
+* [03-Linux块设备驱动](she-bei-qu-dong/03linux-kuai-she-bei-qu-dong.md)
 
 ## 文件系统
 
