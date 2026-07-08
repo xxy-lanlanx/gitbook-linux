@@ -30,6 +30,7 @@
 * [06-Linux Namespace与Cgroup](linux-jin-cheng-guan-li/06linux-namespace-yu-cgroup.md)
 * [07-Linux 信号机制](linux-jin-cheng-guan-li/07linux-xin-hao-ji-zhi.md)
 * [08-Linux 进程生命周期：fork / exec / exit](linux-jin-cheng-guan-li/08linux-jin-cheng-sheng-ming-zhou-qi-fork-exec.md)
+* [09-CPU 亲和性与 SMP 调度深入](linux-jin-cheng-guan-li/09linux-cpu-qin-he-xing-yu-smp-diao-du.md)
 
 ## 内存管理
 
@@ -41,6 +42,7 @@
 * [06-内存与IO的交换](nei-cun-guan-li/06-nei-cun-yu-io-de-jiao-huan.md)
 * [07-Linux 伙伴系统与 slab 分配器](nei-cun-guan-li/07linux-ban-lv-xi-tong-yu-slab-fen-pei-qi.md)
 * [08-Linux 缺页中断与 OOM](nei-cun-guan-li/08linux-que-ye-zhong-duan-yu-oom.md)
+* [09-TLB、页表遍历与 NUMA 架构](nei-cun-guan-li/09-tlb-ye-biao-bian-li-yu-numa.md)
 
 ## 网络协议栈
 
@@ -50,6 +52,7 @@
 * [04-Linux中的五种IO模型](wang-luo-xie-yi-zhan/04linux-zhong-de-wu-zhong-io-mo-xing.md)
 * [05-Linux Netfilter 与 iptables](wang-luo-xie-yi-zhan/05linux-netfilter-yu-iptables.md)
 * [06-Linux 路由与邻居子系统（ARP）](wang-luo-xie-yi-zhan/06linux-lu-you-yu-lin-ju-zi-xi-tong-arp.md)
+* [07-TCP 拥塞控制与内核数据包处理](wang-luo-xie-yi-zhan/07-tcp-yong-sai-kong-zhi-yu-nei-he-shu-ju-bao.md)
 
 ## 设备驱动
 
@@ -59,6 +62,7 @@
 * [04-Linux 中断处理与下半部](she-bei-qu-dong/04linux-zhong-duan-chu-li-yu-xia-ban-bu.md)
 * [05-Linux 网络设备驱动](she-bei-qu-dong/05linux-wang-luo-she-bei-qu-dong.md)
 * [06-Linux Platform 模型、设备树与 sysfs](she-bei-qu-dong/06linux-platform-yu-she-bei-shu-sysfs.md)
+* [07-DMA 与内存屏障](she-bei-qu-dong/07-dma-yu-nei-cun-ping-zhang.md)
 
 ## 文件系统
 
@@ -68,3 +72,4 @@
 * [04-磁盘IO](wen-jian-xi-tong/04-ci-pan-io.md)
 * [05-Linux VFS 核心数据结构](wen-jian-xi-tong/05linux-vfs-he-xin-shu-ju-jie-gou.md)
 * [06-Linux ext4 与页缓存](wen-jian-xi-tong/06linux-ext4-yu-ye-huan-cun.md)
+* [07-io_uring 与异步磁盘 I/O](wen-jian-xi-tong/07-io-uring-yu-yi-bu-ci-pan-io.md)
