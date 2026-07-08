@@ -17,6 +17,8 @@
 * [11-Linux内核时间管理与定时器](linux-cao-zuo-xi-tong-ji-ben-yuan-li/11linux-nei-he-shi-jian-guan-li-yu-ding-shi-qi.md)
 * [12-Linux操作系统理解CPU上下文切换](linux-cao-zuo-xi-tong-ji-ben-yuan-li/12linux-cao-zuo-xi-tong-li-jie-cpu-shang-xia-wen-qie-huan.md)
 * [13-Linux内核调试与性能分析](linux-cao-zuo-xi-tong-ji-ben-yuan-li/13linux-nei-he-diao-shi-yu-xing-neng-fen-xi.md)
+* [14-Linux 可加载内核模块机制](linux-cao-zuo-xi-tong-ji-ben-yuan-li/14linux-ke-jia-zai-nei-he-mo-kuai-ji-zhi.md)
+* [15-Linux ARM 体系结构与汇编基础](linux-cao-zuo-xi-tong-ji-ben-yuan-li/15linux-arm-ti-xi-jie-gou-yu-hui-bian-ji-chu.md)
 
 ## Linux进程管理
 
@@ -26,6 +28,8 @@
 * [04-Linux内核进程的管理与调度](linux-jin-cheng-guan-li/04linux-nei-he-jin-cheng-de-guan-li-yu-diao-du.md)
 * [05-Linux内核进程管理并发同步与原子操作](linux-jin-cheng-guan-li/05linux-nei-he-jin-cheng-guan-li-bing-fa-tong-bu-yu-yuan-zi-cao-zuo.md)
 * [06-Linux Namespace与Cgroup](linux-jin-cheng-guan-li/06linux-namespace-yu-cgroup.md)
+* [07-Linux 信号机制](linux-jin-cheng-guan-li/07linux-xin-hao-ji-zhi.md)
+* [08-Linux 进程生命周期：fork / exec / exit](linux-jin-cheng-guan-li/08linux-jin-cheng-sheng-ming-zhou-qi-fork-exec.md)
 
 ## 内存管理
 
@@ -35,6 +39,8 @@
 * [04-浅谈Linux内存管理机制](nei-cun-guan-li/04-qian-tan-linux-nei-cun-guan-li-ji-zhi.md)
 * [05-详解mmap原理](nei-cun-guan-li/05-xiang-jie-mmap-yuan-li.md)
 * [06-内存与IO的交换](nei-cun-guan-li/06-nei-cun-yu-io-de-jiao-huan.md)
+* [07-Linux 伙伴系统与 slab 分配器](nei-cun-guan-li/07linux-ban-lv-xi-tong-yu-slab-fen-pei-qi.md)
+* [08-Linux 缺页中断与 OOM](nei-cun-guan-li/08linux-que-ye-zhong-duan-yu-oom.md)
 
 ## 网络协议栈
 
@@ -42,12 +48,17 @@
 * [02-Linux网络栈解剖](wang-luo-xie-yi-zhan/02linux-wang-luo-zhan-jie-pou.md)
 * [03-Linux操作系统对于TCP/IP栈的实现原理与具体过程](wang-luo-xie-yi-zhan/03linux-cao-zuo-xi-tong-dui-yu-tcp-ip-zhan-de-shi-xian-yuan-li-yu-ju-ti-guo-cheng.md)
 * [04-Linux中的五种IO模型](wang-luo-xie-yi-zhan/04linux-zhong-de-wu-zhong-io-mo-xing.md)
+* [05-Linux Netfilter 与 iptables](wang-luo-xie-yi-zhan/05linux-netfilter-yu-iptables.md)
+* [06-Linux 路由与邻居子系统（ARP）](wang-luo-xie-yi-zhan/06linux-lu-you-yu-lin-ju-zi-xi-tong-arp.md)
 
 ## 设备驱动
 
 * [01-Linux总线、设备、驱动模型的探究](she-bei-qu-dong/01linux-zong-xian-she-bei-qu-dong-mo-xing-de-tan-jiu.md)
 * [02-Linux操作系统学习之字符设备](she-bei-qu-dong/02linux-cao-zuo-xi-tong-xue-xi-zhi-zi-fu-she-bei.md)
 * [03-Linux块设备驱动](she-bei-qu-dong/03linux-kuai-she-bei-qu-dong.md)
+* [04-Linux 中断处理与下半部](she-bei-qu-dong/04linux-zhong-duan-chu-li-yu-xia-ban-bu.md)
+* [05-Linux 网络设备驱动](she-bei-qu-dong/05linux-wang-luo-she-bei-qu-dong.md)
+* [06-Linux Platform 模型、设备树与 sysfs](she-bei-qu-dong/06linux-platform-yu-she-bei-shu-sysfs.md)
 
 ## 文件系统
 
@@ -55,3 +66,5 @@
 * [02-Linux操作系统原理-文件系统(2)](wen-jian-xi-tong/02linux-cao-zuo-xi-tong-yuan-li-wen-jian-xi-tong-2.md)
 * [03-Linux文件系统详解](wen-jian-xi-tong/03linux-wen-jian-xi-tong-xiang-jie.md)
 * [04-磁盘IO](wen-jian-xi-tong/04-ci-pan-io.md)
+* [05-Linux VFS 核心数据结构](wen-jian-xi-tong/05linux-vfs-he-xin-shu-ju-jie-gou.md)
+* [06-Linux ext4 与页缓存](wen-jian-xi-tong/06linux-ext4-yu-ye-huan-cun.md)
