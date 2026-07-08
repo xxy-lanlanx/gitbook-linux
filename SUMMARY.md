@@ -21,6 +21,7 @@
 * [15-Linux ARM 体系结构与汇编基础](linux-cao-zuo-xi-tong-ji-ben-yuan-li/15linux-arm-ti-xi-jie-gou-yu-hui-bian-ji-chu.md)
 * [16-eBPF 与内核可观测性](linux-cao-zuo-xi-tong-ji-ben-yuan-li/16-ebpf-yu-nei-he-ke-guan-ce-xing.md)
 * [17-Linux 安全机制](linux-cao-zuo-xi-tong-ji-ben-yuan-li/17-linux-an-quan-ji-zhi.md)
+* [18-Linux 内核 LTS 版本演进与特性差异](linux-cao-zuo-xi-tong-ji-ben-yuan-li/18-linux-nei-he-lts-ban-ben-yan-jin.md)
 
 ## Linux进程管理
 
