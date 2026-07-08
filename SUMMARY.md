@@ -19,6 +19,7 @@
 * [13-Linux内核调试与性能分析](linux-cao-zuo-xi-tong-ji-ben-yuan-li/13linux-nei-he-diao-shi-yu-xing-neng-fen-xi.md)
 * [14-Linux 可加载内核模块机制](linux-cao-zuo-xi-tong-ji-ben-yuan-li/14linux-ke-jia-zai-nei-he-mo-kuai-ji-zhi.md)
 * [15-Linux ARM 体系结构与汇编基础](linux-cao-zuo-xi-tong-ji-ben-yuan-li/15linux-arm-ti-xi-jie-gou-yu-hui-bian-ji-chu.md)
+* [16-eBPF 与内核可观测性](linux-cao-zuo-xi-tong-ji-ben-yuan-li/16-ebpf-yu-nei-he-ke-guan-ce-xing.md)
 
 ## Linux进程管理
 
@@ -31,6 +32,7 @@
 * [07-Linux 信号机制](linux-jin-cheng-guan-li/07linux-xin-hao-ji-zhi.md)
 * [08-Linux 进程生命周期：fork / exec / exit](linux-jin-cheng-guan-li/08linux-jin-cheng-sheng-ming-zhou-qi-fork-exec.md)
 * [09-CPU 亲和性与 SMP 调度深入](linux-jin-cheng-guan-li/09linux-cpu-qin-he-xing-yu-smp-diao-du.md)
+* [10-RCU 与内核同步机制深入](linux-jin-cheng-guan-li/10-rcu-yu-nei-he-tong-bu-ji-zhi.md)
 
 ## 内存管理
 
