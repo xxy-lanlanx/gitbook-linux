@@ -1,0 +1,66 @@
+=== linux-cao-zuo-xi-tong-ji-ben-yuan-li/05linux-nei-he-io-ji-chu-zhi-shi-yu-gai-nian.md ===
+Before: ?=202 U+FFFD=150
+After:  ?=3 U+FFFD=0
+  '的数（copy 到内核缓冲区。?Socket Buffer '
+  '控制），第四次是从内核缓冲区。?Socket Buffer '
+  '缓冲区，第二次是从内核缓冲区。?kernel socket '
+
+=== linux-cao-zuo-xi-tong-ji-ben-yuan-li/06linux-cao-zuo-xi-tong-io-ji-zhi-yuan-li.md ===
+Before: ?=76 U+FFFD=67
+After:  ?=6 U+FFFD=0
+  '计算机，包括几乎所有大型主机，?IBM 360 及其所有后续'
+  'BM PC 兼容机中，除（0 ?64K - 1 I/O 端口'
+  ' I/O 端口之外（40 K ?1M - 1 的内存地址保留'
+  '\n\n\n这些方案是如何工作的呢？?CPU 想要读入一个字的时候'
+  '，控制寄存器只是内存中的变量，?C 语言中可以和其他变量一样'
+  '用的 I/O 端口、传送方向（?I/O 设备读或写到 I/O'
+
+=== linux-cao-zuo-xi-tong-ji-ben-yuan-li/07linux-cao-zuo-xi-tong-chu-li-qi-diao-du-ji-ben-zhun-ze-he-shi-xian.md ===
+Before: ?=3 U+FFFD=3
+After:  ?=1 U+FFFD=0
+  '有新进程进入优先级较高的队列（?1 \\~ (i-1)中的任何'
+
+=== linux-cao-zuo-xi-tong-ji-ben-yuan-li/08linux-nei-he-cao-zuo-xi-tong-yuan-li-yu-gai-shu.md ===
+Before: ?=115 U+FFFD=114
+After:  ?=3 U+FFFD=0
+  '的，因为计算机硬件只能识（0 ?1 这样的机器代码。用户要直'
+  '**4．开放*\n\n\n\n\n\n\n\n?20 世纪 80 年代以来，'
+  '/O 操作命令，如 Read ?Write 命令，用户可利用'
+
+=== linux-cao-zuo-xi-tong-ji-ben-yuan-li/12linux-cao-zuo-xi-tong-li-jie-cpu-shang-xia-wen-qie-huan.md ===
+Before: ?=1 U+FFFD=1
+After:  ?=0 U+FFFD=0
+
+=== linux-jin-cheng-guan-li/02linux-nei-he-liu-da-jin-cheng-tong-xin-ji-zhi-yuan-li.md ===
+Before: ?=197 U+FFFD=192
+After:  ?=3 U+FFFD=0
+  '父子进程之间的通信**\n\n\n\n?Linux 的实际编码中，是'
+  '）和管道 2（fd2\\[0] ?fd2\\[1]）；\n\n\n\n>'
+  ' 1111 ，表示给 PID ?1111 的进程发（SIGK'
+
+=== linux-jin-cheng-guan-li/03linux-nei-he-socket-tong-xin-yuan-li.md ===
+Before: ?=96 U+FFFD=89
+After:  ?=0 U+FFFD=0
+
+=== linux-jin-cheng-guan-li/04linux-nei-he-jin-cheng-de-guan-li-yu-diao-du.md ===
+Before: ?=333 U+FFFD=308
+After:  ?=13 U+FFFD=0
+  '的进程作为下一个被调度的进程。?Runqueue是Linux'
+  '态的进程。处于睡眠状态的进程。?counter 本来就没有用'
+  '位(bit)来代表一个优先级，?40个优先级最少需（2位来表'
+  '优先级列表保留给实时任务使用，?0个用于用户任务，参见下图\n'
+  '值即为fair\\_clock ?wait\\_runtime。'
+  'S组调_\n\n\n\nCFS组调度（?2.6.24 内核中引入）是'
+  'link.zhihu.com/?target=http%3A'
+  '度器太复杂了，而且越来越复杂，?0%的精力消耗在（0%的场景'
+  '列表示方法，即 bitmap ?queue）\n\n\n\n**BF'
+  '比如很可能有两个优先级（10 ?RT 进程同时 Ready，'
+  ' 进程\n\n\n\nBFS 103 ?bitmap 来表示是否有相'
+  '器如何在这样一（bitmap ?queue 的复杂结构中选择'
+  '（SCHED\\_NORMAL ?bit 被置位，表明有类型为'
+
+=== linux-jin-cheng-guan-li/05linux-nei-he-jin-cheng-guan-li-bing-fa-tong-bu-yu-yuan-zi-cao-zuo.md ===
+Before: ?=87 U+FFFD=84
+After:  ?=1 U+FFFD=0
+  'n\\_common() 函数，?\\_\\_down\\_comm'
+

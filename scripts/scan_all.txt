@@ -1,0 +1,16 @@
+linux-jin-cheng-guan-li\04linux-nei-he-jin-cheng-de-guan-li-yu-diao-du.md  q=3 u=0
+    'r/index.html?ca=drs-cn-01'
+    'k.zhihu.com/?target=http%'
+    '(n)调度器有什么不好么?有的, 大不了就是遍历的'
+nei-cun-guan-li\01-ying-jian-yuan-li-he-fen-ye-guan-li.md  q=5 u=0
+    '为什么要分成多个Zone?'
+    '解释内存为什么分Zone? DMA zone.'
+    '什么要切DMA zone?\\'
+wang-luo-xie-yi-zhan\03linux-cao-zuo-xi-tong-dui-yu-tcp-ip-zhan-de-shi-xian-yuan-li-yu-ju-ti-guo-cheng.md  q=4 u=0
+    '+ (inet_opt ? inet_opt->o'
+    ')->gso_segs ?: 1);'
+    'stead of sk ? */'
+wen-jian-xi-tong\01linux-cao-zuo-xi-tong-yuan-li-wen-jian-xi-tong-1.md  q=1 u=0
+    '无论如何也要继续? (y,n) y'
+wen-jian-xi-tong\02linux-cao-zuo-xi-tong-yuan-li-wen-jian-xi-tong-2.md  q=1 u=0
+    '调用和驱动程序关联起来呢?这需要了解一个非常关键的'

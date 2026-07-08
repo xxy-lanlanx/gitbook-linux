@@ -1,0 +1,40 @@
+FILE: linux-cao-zuo-xi-tong-ji-ben-yuan-li/05linux-nei-he-io-ji-chu-zhi-shi-yu-gai-nian.md
+BEFORE: q=202 u=150
+AFTER: q=0 u=0
+---
+FILE: linux-cao-zuo-xi-tong-ji-ben-yuan-li/06linux-cao-zuo-xi-tong-io-ji-zhi-yuan-li.md
+BEFORE: q=76 u=67
+AFTER: q=0 u=0
+---
+FILE: linux-cao-zuo-xi-tong-ji-ben-yuan-li/07linux-cao-zuo-xi-tong-chu-li-qi-diao-du-ji-ben-zhun-ze-he-shi-xian.md
+BEFORE: q=3 u=3
+AFTER: q=0 u=0
+---
+FILE: linux-cao-zuo-xi-tong-ji-ben-yuan-li/08linux-nei-he-cao-zuo-xi-tong-yuan-li-yu-gai-shu.md
+BEFORE: q=115 u=114
+AFTER: q=0 u=0
+---
+FILE: linux-cao-zuo-xi-tong-ji-ben-yuan-li/12linux-cao-zuo-xi-tong-li-jie-cpu-shang-xia-wen-qie-huan.md
+BEFORE: q=1 u=1
+AFTER: q=0 u=0
+---
+FILE: linux-jin-cheng-guan-li/02linux-nei-he-liu-da-jin-cheng-tong-xin-ji-zhi-yuan-li.md
+BEFORE: q=197 u=192
+AFTER: q=0 u=0
+---
+FILE: linux-jin-cheng-guan-li/03linux-nei-he-socket-tong-xin-yuan-li.md
+BEFORE: q=96 u=89
+AFTER: q=0 u=0
+---
+FILE: linux-jin-cheng-guan-li/04linux-nei-he-jin-cheng-de-guan-li-yu-diao-du.md
+BEFORE: q=333 u=308
+AFTER: q=3 u=0
+REMAINING ?:
+  'uler/index.html?ca=drs-cn-0125]'
+  'link.zhihu.com/?target=http%3A/'
+  'O(n)调度器有什么不好么?有的, 大不了就是遍历的时间太'
+---
+FILE: linux-jin-cheng-guan-li/05linux-nei-he-jin-cheng-guan-li-bing-fa-tong-bu-yu-yuan-zi-cao-zuo.md
+BEFORE: q=87 u=84
+AFTER: q=0 u=0
+---

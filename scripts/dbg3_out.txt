@@ -1,0 +1,39 @@
+==== linux-cao-zuo-xi-tong-ji-ben-yuan-li/05linux-nei-he-io-ji-chu-zhi-shi-yu-gai-nian.md
+  SEG: '*\\*则需要从磁盘到?内核缓冲区用户空间_'
+  CPS: 002a 005c 002a 5219 9700 8981 4ece 78c1 76d8 5230 003f 5185 6838 7f13 51b2 533a 7528 6237 7a7a 95f4 005f
+  SEG: '，内核代码运行的地方?_。用户缓冲区），这'
+  CPS: ff0c 5185 6838 4ee3 7801 8fd0 884c 7684 5730 65b9 003f 005f 3002 7528 6237 7f13 51b2 533a ff09 ff0c 8fd9
+  SEG: '* 则需要从磁盘到?内核缓冲区() 方法'
+  CPS: 002a 0020 5219 9700 8981 4ece 78c1 76d8 5230 003f 5185 6838 7f13 51b2 533a 0028 0029 0020 65b9 6cd5
+  SEG: '链接：当应用程序调用?write'
+  CPS: 94fe 63a5 ff1a 5f53 5e94 7528 7a0b 5e8f 8c03 7528 003f 0077 0072 0069 0074 0065
+
+==== linux-cao-zuo-xi-tong-ji-ben-yuan-li/06linux-cao-zuo-xi-tong-io-ji-zhi-yuan-li.md
+  SEG: '内存映射?I/O 的数据缓冲区'
+  CPS: 5185 5b58 6620 5c04 003f 0049 002f 004f 0020 7684 6570 636e 7f13 51b2 533a
+  SEG: '种方式具有与内存映射?I/O 的优点。'
+  CPS: 79cd 65b9 5f0f 5177 6709 4e0e 5185 5b58 6620 5c04 003f 0049 002f 004f 0020 7684 4f18 70b9 3002
+  SEG: '，先来看一下内存映射?I/O ，不需要特殊'
+  CPS: ff0c 5148 6765 770b 4e00 4e0b 5185 5b58 6620 5c04 003f 0049 002f 004f 0020 ff0c 4e0d 9700 8981 7279 6b8a
+  SEG: ' 第三，对于内存映射?I/O，可以引用内存'
+  CPS: 0020 7b2c 4e09 ff0c 5bf9 4e8e 5185 5b58 6620 5c04 003f 0049 002f 004f ff0c 53ef 4ee5 5f15 7528 5185 5b58
+  SEG: '要权衡。对于内存映射?I/O 也是一样，它'
+  CPS: 8981 6743 8861 3002 5bf9 4e8e 5185 5b58 6620 5c04 003f 0049 002f 004f 0020 4e5f 662f 4e00 6837 ff0c 5b83
+  SEG: '价是很大的。内存映射?I/O 的情况，硬件'
+  CPS: 4ef7 662f 5f88 5927 7684 3002 5185 5b58 6620 5c04 003f 0049 002f 004f 0020 7684 60c5 51b5 ff0c 786c 4ef6
+  SEG: '为了避免这种内存映射?I/O'
+  CPS: 4e3a 4e86 907f 514d 8fd9 79cd 5185 5b58 6620 5c04 003f 0049 002f 004f
+
+==== linux-jin-cheng-guan-li/03linux-nei-he-socket-tong-xin-yuan-li.md
+  SEG: '操作是从应用程序调用?write'
+  CPS: 64cd 4f5c 662f 4ece 5e94 7528 7a0b 5e8f 8c03 7528 003f 0077 0072 0069 0074 0065
+
+==== linux-jin-cheng-guan-li/04linux-nei-he-jin-cheng-de-guan-li-yu-diao-du.md
+  SEG: 'index.html?ca=drs-cn-'
+  CPS: 0069 006e 0064 0065 0078 002e 0068 0074 006d 006c 003f 0063 0061 003d 0064 0072 0073 002d 0063 006e 002d
+  SEG: 'zhihu.com/?target=htt'
+  CPS: 007a 0068 0069 0068 0075 002e 0063 006f 006d 002f 003f 0074 0061 0072 0067 0065 0074 003d 0068 0074 0074
+  SEG: '(调度器有什么不好么?有的?)分类而不是按'
+  CPS: 0028 8c03 5ea6 5668 6709 4ec0 4e48 4e0d 597d 4e48 003f 6709 7684 003f 0029 5206 7c7b 800c 4e0d 662f 6309
+  SEG: '原文链接：RT?优先'
+  CPS: 539f 6587 94fe 63a5 ff1a 0052 0054 003f 4f18 5148

@@ -99,7 +99,7 @@ meltdown 攻击原理： 基于时间的 旁路攻击 side-channel
 
 当CPU 和DMA同时访问内存时，硬件上会有仲裁器，选择优先级高的去访问内存。
 
-为什么要切DMA zone?\
+为为什么要切DMA zone?\
 DMA Zone的大小，是由硬件决定的。访问不到更高的内存。
 
 什么叫做 normal zone? highmem zone?

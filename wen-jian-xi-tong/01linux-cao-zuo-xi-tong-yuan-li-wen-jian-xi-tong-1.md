@@ -102,7 +102,7 @@ int ret = write(fd, buf, len);
 Units = 扇区 of 1 * 512 = 512 bytes
 扇区大小(逻辑/物理)：512 字节 / 512 字节
 I/O 大小(最小/最佳)：512 字节 / 512 字节
-磁盘标签类型：dos # 使 用dos---MBR 分区方式
+磁盘标签类型：dos # 使用dos---MBR 分区方式
 磁盘标识符：0x000ce1c0
 
    设备    Boot      Start         End      Blocks   Id  System

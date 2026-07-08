@@ -1,0 +1,138 @@
+=== linux-cao-zuo-xi-tong-ji-ben-yuan-li/05linux-nei-he-io-ji-chu-zhi-shi-yu-gai-nian.md ===
+Before: ?=202 U+FFFD=150
+After:  ?=9 U+FFFD=0
+  '\\~\\~3G）_用户空间_\\*?\\~\\~4G）_内核空间_\\'
+  ' 时间（User Space ?Kernel Space 之'
+  '第三项 85.4% idle ?CPU 消耗在闲置进程的时间'
+  '的数（copy 到内核缓冲区。?Socket Buffer '
+  '控制），第四次是从内核缓冲区。?Socket Buffer '
+  '程对比，零拷贝的传输过 *：硬?-> kernel buff'
+  '缓冲区，第二次是从内核缓冲区。?kernel socket '
+  'file配置开启零拷贝\n\n* ?Linux 系统中，Java'
+  '件，sendfile64() ?sendfile() 的扩展'
+
+=== linux-cao-zuo-xi-tong-ji-ben-yuan-li/06linux-cao-zuo-xi-tong-io-ji-zhi-yuan-li.md ===
+Before: ?=76 U+FFFD=67
+After:  ?=11 U+FFFD=0
+  '096 位，最后是一个校验和 ?ECC（错误码，Error-'
+  '计算机，包括几乎所有大型主机，?IBM 360 及其所有后续'
+  'BM PC 兼容机中，除（0 ?64K - 1 ?I/O 端'
+  '中，除（0 ?64K - 1 ?I/O 端口之外（40 K '
+  '?I/O 端口之外（40 K ?1M - 1 的内存地址保留'
+  '\n\n\n这些方案是如何工作的呢？?CPU 想要读入一个字的时候'
+  '器需要使用汇编代码，因为（C ?C++ 中不存在执行 IN '
+  '?C++ 中不存在执行 IN ?OUT指令的方法。调用这样的'
+  '，控制寄存器只是内存中的变量，?C 语言中可以和其他变量一样'
+  '线（内存、PCIe、SCSI ?USB）。如下图所示：\n\n\n'
+  '用的 I/O 端口、传送方向（?I/O 设备读或写到 I/O'
+
+=== linux-cao-zuo-xi-tong-ji-ben-yuan-li/07linux-cao-zuo-xi-tong-chu-li-qi-diao-du-ji-ben-zhun-ze-he-shi-xian.md ===
+Before: ?=3 U+FFFD=3
+After:  ?=2 U+FFFD=0
+  '如某些实时和交互进程快速响应要?，另一方面要考虑系统整体效率'
+  '有新进程进入优先级较高的队列（?1 \\~ (i-1)中的任何'
+
+=== linux-cao-zuo-xi-tong-ji-ben-yuan-li/08linux-nei-he-cao-zuo-xi-tong-yuan-li-yu-gai-shu.md ===
+Before: ?=115 U+FFFD=114
+After:  ?=14 U+FFFD=0
+  '置了 OS 之后，可（CPU ?I/O 设备由于能保持稳定的'
+  '的，因为计算机硬件只能识（0 ?1 这样的机器代码。用户要直'
+  '**4．开放*\n\n\n\n\n\n\n\n?20 世纪 80 年代以来，'
+  '种接口是软件接口。图 1-1 ?OS 作为接口的示意图。由图'
+  'I/O 设备以及信息(数据和程?。相应地，OS 的主要功能也'
+  '个完全无软件的计算机系统(即裸?，它向用户提供的是实际硬件接'
+  '/O 操作命令，如 Read ?Write 命令，用户可利用'
+  '\n1．并行与并发：并行性和并发?(Concurrence) '
+  '执行，这意味着处理机处于空闲状?。但在引入进程后，若分别为计'
+  '条件，因而可将系统中（CPU ?I/O 设备同时开动起来，实'
+  '\n\n\n在操作系统环境下，所谓共?(Sharing)是指系统中'
+  '要访问该资源时(只要 A 未用?，则必须等待。仅（A 进程访'
+  '\n\n\n\n操作系统中的所谓“虚拟?(Virtual) ，是指通'
+  '若干个逻辑上的对应物。物理实前?是实的，即实际存在的，而后者'
+
+=== linux-cao-zuo-xi-tong-ji-ben-yuan-li/12linux-cao-zuo-xi-tong-li-jie-cpu-shang-xia-wen-qie-huan.md ===
+Before: ?=1 U+FFFD=1
+After:  ?=1 U+FFFD=0
+  '多线程切换问题\\\n\n\n\n\\# ?10 个线程运行5 分钟的基'
+
+=== linux-jin-cheng-guan-li/02linux-nei-he-liu-da-jin-cheng-tong-xin-ji-zhi-yuan-li.md ===
+Before: ?=197 U+FFFD=192
+After:  ?=16 U+FFFD=0
+  '管道才行\n\n\n\n另外，通过管道?| 创建的管道是匿名管道，用'
+  '父子进程之间的通信**\n\n\n\n?Linux 的实际编码中，是'
+  '名管道，管（1（fd1\\[0]?fd1\\[1]）和管道 2（'
+  '）和管道 2（fd2\\[0] ?fd2\\[1]）；\n\n\n\n>'
+  '题\n\n\n\n信号量其实就是一个变?，我们可以用一个信号量来表示'
+  '进的次序是不确定的。假（P2 ?“代（要基（P1 ?“代（?'
+  '假（P2 ?“代（要基（P1 ?“代（?“代（的运行结果才能'
+  ' ?“代（要基（P1 ?“代（?“代（的运行结果才能执行，那'
+  '结果才能执行，那么我们就必须保?“代（一定是?“代（之后才会'
+  '那么我们就必须保?“代（一定是?“代（之后才会执行\n\n\n\n!'
+  'webp)\n\n\n\n如果 P2 ?“代（要基（P1 ?“代（?'
+  '果 P2 ?“代（要基（P1 ?“代（?“代（的运行结果才能'
+  ' ?“代（要基（P1 ?“代（?“代（的运行结果才能执行，那'
+  '结果才能执行，那么我们就必须保?“代（一定是?“代（之后才会'
+  '那么我们就必须保?“代（一定是?“代（之后才会执行\n\n\n\n\\'
+  ' 1111 ，表示给 PID ?1111 的进程发（SIGK'
+
+=== linux-jin-cheng-guan-li/03linux-nei-he-socket-tong-xin-yuan-li.md ===
+Before: ?=96 U+FFFD=89
+After:  ?=4 U+FFFD=0
+  'etstat 用于显示套接字内?, -ano 是可选选项\n\n'
+  '，在数据收发之前，还需要进行一?`connect`，也就是建'
+  '\n\n首先，客户端应用程序需要调?`Socket` 库中（co'
+  '能够容纳的数据长度，判断的标准?`MTU`，它表示的是一个网'
+
+=== linux-jin-cheng-guan-li/04linux-nei-he-jin-cheng-de-guan-li-yu-diao-du.md ===
+Before: ?=333 U+FFFD=308
+After:  ?=35 U+FFFD=0
+  'eduler_\\*. 这个也是?.6内核中引入的，具体为2.'
+  '的进程作为下一个被调度的进程。?Runqueue是Linux'
+  '策略，SCHED\\_FIFO ?SCHED\\_RR\\\n\n> '
+  '态的进程。处于睡眠状态的进程。?counter 本来就没有用'
+  '位(bit)来代表一个优先级，?40个优先级最少需（2位来表'
+  '表示位图，该位图中的所有位都被?，当某个优先级的进程处于可运'
+  '00 , min(静态优先级 ?bonus + 5) , 1'
+  'r同时也表示了一个进程的优先级?.6中时间片用任务描述符中的'
+  '优先级列表保留给实时任务使用，?0个用于用户任务，参见下图\n'
+  '需要选择当前最高优先级的进程时?.6调度器不用遍历整个run'
+  '任务队列中。比如某进程的优先级?，当它到达最后一级台（40后'
+  '组。它为每一个优先级都分配了一?“组时间配额”，记为Tg；同'
+  'U的执行时间，即并行地每个进程?/nr\\_running的时'
+  'ice值为0的进程多获得10%?CPU时间。在计算键值时也考'
+  '值即为fair\\_clock ?wait\\_runtime。'
+  '程可以选择使用不同的调度器模块?.6.23中，CFS实现了两'
+  'L、SCHED\\_BATCH ?SCHED\\_IDLE。对（'
+  'LE。对（SCHED\\_RR ?SCHED\\_FIFO 策略'
+  'S组调_\n\n\n\nCFS组调度（?2.6.24 内核中引入）是'
+  '与组大致相同的调度时间。您会发?/proc 接口用于管理进程'
+  '调度。每个用户各拥有 50% ?CPU 使用。用（B 使用自'
+  '用。用（B 使用自己 50% ?CPU 分配运行他的 48 '
+  '占用属于用（A 的另（50% ?CPU 分配\n\n\n\n> 更多'
+  'link.zhihu.com/?target=http%3A'
+  '度器太复杂了，而且越来越复杂，?0%的精力消耗在（0%的场景'
+  '，将进程按照其性质(RT）优先?)分类而不是按照CPU分类是'
+  'PU附带一个“生产（140队列?”\n\n\n\n只有统一的，单一的'
+  '其中 jiffies 是当前时?, user\\_priori'
+  '列表示方法，即 bitmap ?queue）\n\n\n\n**BF'
+  '（4 类，分别表示不同的调度策?:**\n\n\n\nRealtim'
+  '比如很可能有两个优先级（10 ?RT 进程同时 Ready，'
+  'eady 进程\n\n\n\nBFS ?103 ?bitmap 来表'
+  '进程\n\n\n\nBFS ?103 ?bitmap 来表示是否有相'
+  '器如何在这样一（bitmap ?queue 的复杂结构中选择'
+  '（SCHED\\_NORMAL ?bit 被置位，表明有类型为'
+
+=== linux-jin-cheng-guan-li/05linux-nei-he-jin-cheng-guan-li-bing-fa-tong-bu-yu-yuan-zi-cao-zuo.md ===
+Before: ?=87 U+FFFD=84
+After:  ?=10 U+FFFD=0
+  '执行，计算count的累加值仍?，写回到内存\n\n\n\n虽然进程'
+  '是count最后的值为1，而不?。要解决这个问题就需要使原子'
+  '必须先对自旋锁进行初始化（设置?），上锁过程如下_\n\n\n\n*'
+  ' 进行减一操作，判断结果是否等?，如果是表示上锁成功并返回\n'
+  '并返回\n\n* \\2. 如果不等?，表示其他进程已经上锁，此时'
+  '锁\n\n\n\n### 信号\n\n\n\n?自旋不一样，当前进程信号进行'
+  '--)，如果得到的结果为大于等?，表示成功上锁，如果小于0表'
+  'U竞争），然后比较计数器是否大?，如果是对计数器进行减一操作'
+  '_\\_down() 函数最终调?\\_\\_down\\_comm'
+  'n\\_common() 函数，?\\_\\_down\\_comm'
+

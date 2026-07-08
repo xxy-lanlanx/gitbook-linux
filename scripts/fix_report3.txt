@@ -1,0 +1,56 @@
+FILE: linux-cao-zuo-xi-tong-ji-ben-yuan-li/05linux-nei-he-io-ji-chu-zhi-shi-yu-gai-nian.md
+BEFORE: q=202 u=150
+AFTER: q=4 u=0
+REMAINING ? CONTEXTS:
+  '间_\\* 是操作系 *\\*则需要从磁盘到?内核缓冲区用户空间_  *\\*用户程序代'
+  '户空间没有相应的数据，内核代码运行的地方?_。用户缓冲区），这时对用户程序来说写操'
+  '* 则需要从磁盘到?内核缓冲区() 方法时，CPU 会把用户'
+  '原文链接：当应用程序调用?write'
+---
+FILE: linux-cao-zuo-xi-tong-ji-ben-yuan-li/06linux-cao-zuo-xi-tong-io-ji-zhi-yuan-li.md
+BEFORE: q=76 u=67
+AFTER: q=7 u=0
+REMAINING ? CONTEXTS:
+  '内存映射?I/O 的数据缓冲区，而控制寄存器则具有'
+  '具有不同的优缺点。这种方式具有与内存映射?I/O 的优点。'
+  '2. 第二，先来看一下内存映射?I/O ，不需要特殊的保护机制就能够阻止'
+  '3. 第三，对于内存映射?I/O，可以引用内存的每一条指令也可以引'
+  '中，几乎所有的事情都要权衡。对于内存映射?I/O 也是一样，它也有自己的缺点。首先'
+  '个设备控制寄存器的代价是很大的。内存映射?I/O 的情况，硬件必须有选择性的禁用缓'
+  '原文链接：为了避免这种内存映射?I/O'
+---
+FILE: linux-cao-zuo-xi-tong-ji-ben-yuan-li/07linux-cao-zuo-xi-tong-chu-li-qi-diao-du-ji-ben-zhun-ze-he-shi-xian.md
+BEFORE: q=3 u=3
+AFTER: q=0 u=0
+---
+FILE: linux-cao-zuo-xi-tong-ji-ben-yuan-li/08linux-nei-he-cao-zuo-xi-tong-yuan-li-yu-gai-shu.md
+BEFORE: q=115 u=114
+AFTER: q=0 u=0
+---
+FILE: linux-cao-zuo-xi-tong-ji-ben-yuan-li/12linux-cao-zuo-xi-tong-li-jie-cpu-shang-xia-wen-qie-huan.md
+BEFORE: q=1 u=1
+AFTER: q=0 u=0
+---
+FILE: linux-jin-cheng-guan-li/02linux-nei-he-liu-da-jin-cheng-tong-xin-ji-zhi-yuan-li.md
+BEFORE: q=197 u=192
+AFTER: q=0 u=0
+---
+FILE: linux-jin-cheng-guan-li/03linux-nei-he-socket-tong-xin-yuan-li.md
+BEFORE: q=96 u=89
+AFTER: q=1 u=0
+REMAINING ? CONTEXTS:
+  '原文链接：数据收发操作是从应用程序调用?write'
+---
+FILE: linux-jin-cheng-guan-li/04linux-nei-he-jin-cheng-de-guan-li-yu-diao-du.md
+BEFORE: q=333 u=308
+AFTER: q=5 u=0
+REMAINING ? CONTEXTS:
+  'scheduler/index.html?ca=drs-cn-0125](http'
+  's://link.zhihu.com/?target=http%3A//www.'
+  '系，将进程按照其性质(调度器有什么不好么?有的?)分类而不是按照CPU分类是明智之'
+  '原文链接：RT?优先'
+---
+FILE: linux-jin-cheng-guan-li/05linux-nei-he-jin-cheng-guan-li-bing-fa-tong-bu-yu-yuan-zi-cao-zuo.md
+BEFORE: q=87 u=84
+AFTER: q=0 u=0
+---
